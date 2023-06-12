@@ -6,7 +6,7 @@
 //  author=Colin Jenkins
 //  version=1.0
 //  date=2015-07-27
-//  url=http://op12no2.me	
+//  url=
 //  email=op12no2@gmail.com	
 //  twitter=@op12no2
 //
