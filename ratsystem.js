@@ -1,9 +1,9 @@
-const YTC = 'YTC';
+const RAT = 'YTC';
 
 function fixRating() {
   const el = document.querySelector('.summarycaption');
   if (el) {
-    el.textContent = el.textContent.replace('Rating system: PY', 'Rating system: ' + YTC);
+    el.textContent = el.textContent.replace('Rating system: PY', 'Rating system: ' + RAT);
   }
 }
 
